@@ -1,5 +1,12 @@
-{
-    "eid": "1872",
-    "name": "Johnny Depp",
-    "img": "https://media.themoviedb.org/t/p/w500/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
-}
+[
+    {
+        "eid": "1872",
+        "name": "Johnny Depp",
+        "img": "https://media.themoviedb.org/t/p/w500/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+    },
+    {
+        "eid": "1872",
+        "name": "Johnny Depp",
+        "img": "https://media.themoviedb.org/t/p/w500/wcI594cwM4ArPwvRd2IU0Z0yLuh.jpg"
+    }
+]
