@@ -1,6 +1,4 @@
 {
-  "users": [
-    {
       "id": "r3f5",
       "name": "mugesh@gmail.com",
       "passwd": "mug123",
@@ -49,6 +47,5 @@
           "clicks": 4
         }
       ]
-    }
-  ]
 }
+
